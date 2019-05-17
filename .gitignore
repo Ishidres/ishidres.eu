@@ -1,0 +1,14 @@
+# Folders
+
+# File Types
+.*
+*.txt
+*.sh
+
+# Specific Files
+privacypolicy.html
+impressum.html
+
+# Include these files
+!.gitignore
+!.gitkeep

@@ -1,0 +1,18 @@
+{
+  "name": "ishidres.eu",
+  "version": "1.0.0",
+  "description": "Ishidres' personal homepage, giving more information about her and what she creates, located at ishidres.eu.",
+  "main": "js/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website",
+    "homepage",
+    "personal",
+    "ishidres"
+  ],
+  "author": "Ishidres (www.ishidres.eu)",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {}
+}
