@@ -60,7 +60,7 @@ p {
   color: white;
   position: relative;
   margin: auto;
-  width: 50%;
+  width: 60%;
   text-align: center;
   align-items: center;
   justify-content: center;
@@ -125,6 +125,17 @@ p {
 .deviantart-button:hover {
   background-color: white;
   color: #05cc47;
+}
+
+.patreon-button {
+  background-color: #f86754; 
+  color: white; 
+  border: 2px solid #ec5f4f;
+}
+
+.patreon-button:hover {
+  background-color: white;
+  color: #f86754;
 }
 
 /* Animated Heading */
