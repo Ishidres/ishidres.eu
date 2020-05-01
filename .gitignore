@@ -8,6 +8,8 @@
 # Specific Files
 privacypolicy.html
 impressum.html
+impressum-original.html
+contact.png
 
 # Include these files
 !.gitignore
